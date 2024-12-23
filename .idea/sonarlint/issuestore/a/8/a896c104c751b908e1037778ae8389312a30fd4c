@@ -1,0 +1,15 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Áô©äÿÿÿÿÿJ$dc463a67-a393-45a3-a145-5e20c17c041f
+„
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ëøß©J$e154da1a-dc30-4bd0-ac43-b9feb4c82506
+ˆ
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡ÀûÿÿÿÿJ$099b0fb2-f202-4109-8de1-55427abd6a24
+Ž
+java:S1130"MRemove the redundant 'java.sql.SQLException' thrown exception declaration(s).(ñ¬Ý†þÿÿÿÿJ$c27361db-478e-416b-8158-fa2df8530add
+r
+java:S6437"6Revoke and change this password, as it is compromised.(ëøß©J$dca985c5-1a34-4874-b75b-770b7f5cb426
+`
+java:S6905"Don't use the query "SELECT *".(û˜ƒÚÿÿÿÿÿJ$756cc218-a712-443b-9bcf-3b6e6789a65a
+f	java:S106"+Replace this use of System.out by a logger.(¼®´·J$6fe2bc8b-fca3-4185-96ed-4a551c73a094
+f	java:S106"+Replace this use of System.out by a logger.(×Ô›¾J$ed1b9636-3862-4a31-a133-209e45256768
+k	java:S106"+Replace this use of System.out by a logger.( Õ³‘øÿÿÿÿJ$18128b03-636f-4eb9-94df-e604141b04d4

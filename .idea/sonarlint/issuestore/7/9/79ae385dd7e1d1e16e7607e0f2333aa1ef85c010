@@ -1,0 +1,13 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßá°™ùÿÿÿÿJ$6d3172c6-f054-4abc-9c2d-45d0556cddaa
+w	java:S125"<This block of commented-out lines of code should be removed.(ßÅÍ”J$acb6ed41-1e92-4be7-8cd5-1d2f88072918
+w	java:S125*"<This block of commented-out lines of code should be removed.(ßÅÍ”J$97b51458-06bd-4be0-bed8-6400a67e341e
+|	java:S125`"<This block of commented-out lines of code should be removed.(ÌÂ¼ËûÿÿÿÿJ$50c88ddd-7ede-4d36-a54d-aae7328abc8c
+|	java:S125x"<This block of commented-out lines of code should be removed.(ðÛ²¸øÿÿÿÿJ$75323f72-027f-478d-9529-9c00bb232adf
+}	java:S125•"<This block of commented-out lines of code should be removed.(ã¾”éþÿÿÿÿJ$7a0e7cfe-d4ce-41cb-97f6-32c6e9e7746b
+}	java:S125µ"<This block of commented-out lines of code should be removed.(–Õî¦ùÿÿÿÿJ$bd00e504-d3f8-46fb-b828-0fd7e38e4f67
+g	java:S106Î"+Replace this use of System.out by a logger.(«‹ÎõJ$588778e1-812a-4957-8a44-a17e183196aa
+©
+java:S1130Ó"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿ØJ$6cce0388-bcfc-4baa-9d7e-2deb1ca5c296
+l
+java:S1197×"*Move the array designators [] to the type.( æÎùÿÿÿÿJ$0a423173-0a05-4738-bdb6-c3270f5f08d5

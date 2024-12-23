@@ -1,0 +1,13 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÙ¦ûÿÿÿÿJ$1393332a-d376-4963-bed9-e1f94116da41
+›
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$a338a38b-b4be-43ef-852d-e533f0f50456
+e	java:S106"+Replace this use of System.out by a logger.(œ¢ëJ$2cb88ef0-a2c7-4b93-846b-938b0f094c7e
+k	java:S106"+Replace this use of System.out by a logger.(ï®£¶üÿÿÿÿJ$c264b685-4326-42bb-8048-61197b19c314
+w	java:S125"<This block of commented-out lines of code should be removed.(Çö©ôJ$aa212a40-b7d4-4104-8808-058a1be881c0
+k	java:S106"+Replace this use of System.out by a logger.(î•§÷ùÿÿÿÿJ$c2c7c235-9de5-4952-83bd-bcf040890a8a
+e	java:S106 "+Replace this use of System.out by a logger.(”ÈÛ0J$509bfa4c-ff46-4c2a-ac3e-597875a458b4
+k	java:S106!"+Replace this use of System.out by a logger.(ªŒòÅşÿÿÿÿJ$abac518f-f581-4c40-82b7-7db275329e9e
+k	java:S106""+Replace this use of System.out by a logger.(‘¶ø‡ıÿÿÿÿJ$801edcc0-a94b-467d-9bd2-e44c616b19f1
+k	java:S106$"+Replace this use of System.out by a logger.(ëÿ ÷ùÿÿÿÿJ$15863bdc-e563-42c2-97a2-8a4fda4cbb55
+f	java:S106%"+Replace this use of System.out by a logger.(¨Ï•úJ$58a10167-3f8b-4260-964d-1739191aea2f

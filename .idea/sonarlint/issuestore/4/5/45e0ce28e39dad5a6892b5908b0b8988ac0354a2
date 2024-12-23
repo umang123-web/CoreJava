@@ -1,0 +1,13 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏÃ—üøÿÿÿÿJ$27bd880e-c085-400e-9328-17637ed3c8ba
+f	java:S106"+Replace this use of System.out by a logger.(ÄÛŒÁJ$bb5b7147-a16d-4684-b7e6-1893cba4e1e0
+k	java:S106"+Replace this use of System.out by a logger.(’ÿœ…øÿÿÿÿJ$9c9fb49d-7606-4ca2-8a1d-82fb255ffd6f
+f	java:S106"+Replace this use of System.out by a logger.(ŽæûÈJ$ec255915-19c0-4e72-9be0-38c181504c28
+r
+java:S1854%"6Remove this useless assignment to local variable "br".(ßÅÍ”J$7ae38949-1ef3-4198-aec0-8da536285276
+­
+java:S1130""lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(²Á€œüÿÿÿÿJ$fa37303a-2b83-42c1-9a91-904850047e44
+k
+java:S1197""*Move the array designators [] to the type.(²Á€œüÿÿÿÿJ$e4539d55-048f-4710-8650-3a203c656d66
+c
+java:S1481%"'Remove this unused "br" local variable.(ßÅÍ”J$ce92374b-3ed1-4869-aeaa-bcfa74799021
